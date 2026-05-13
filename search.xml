@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>你的论文标题</title>
+    <url>/2026/05/13/papers_titles/</url>
+    <content><![CDATA[<hr><h3>📎 相关论文推荐</h3><ul><li><a href="2026/05/13/MambaVision架构/">MambaVision架构</a></li></ul>]]></content>
+      <categories>
+        <category>论文精读</category>
+      </categories>
+      <tags>
+        <tag>NLP</tag>
+        <tag>Transformer</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>MambaVision架构</title>
     <url>/2026/05/13/MambaVision%E6%9E%B6%E6%9E%84/</url>
     <content><![CDATA[<p><img data-src="/paper.pdf" alt="原论文 PDF"></p>
@@ -103,22 +115,10 @@
         <category>论文精读</category>
       </categories>
       <tags>
+        <tag>Transformer</tag>
         <tag>CV</tag>
         <tag>Mamba</tag>
         <tag>SSM</tag>
-        <tag>Transformer</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>你的论文标题</title>
-    <url>/2026/05/13/papers_titles/</url>
-    <content><![CDATA[<hr><h3>📎 相关论文推荐</h3><ul><li><a href="2026/05/13/MambaVision架构/">MambaVision架构</a></li></ul>]]></content>
-      <categories>
-        <category>论文精读</category>
-      </categories>
-      <tags>
-        <tag>Transformer</tag>
-        <tag>NLP</tag>
       </tags>
   </entry>
 </search>
